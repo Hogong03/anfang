@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "LIST2",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u-button": "/uni_modules/uview-ui/components/u-button/u-button",
+    "zhuzhuangtu": "/components/zhuzhuangtu",
+    "wendu": "/components/wendu",
+    "shishiwendu": "/components/shishiwendu"
+  }
+}

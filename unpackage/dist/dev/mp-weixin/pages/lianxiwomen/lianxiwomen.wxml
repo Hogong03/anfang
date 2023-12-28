@@ -1,0 +1,1 @@
+<view><view><block wx:for="{{lianxi}}" wx:for-item="item" wx:for-index="__i0__" wx:key="id"><view class="_ul"><view class="_li">{{item.value}}</view></view></block></view></view>

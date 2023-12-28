@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "LIST1",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u-swiper": "/uni_modules/uview-ui/components/u-swiper/u-swiper"
+  }
+}

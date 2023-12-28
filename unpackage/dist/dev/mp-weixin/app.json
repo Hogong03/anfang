@@ -1,0 +1,49 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/list1/list1",
+    "pages/list2/list2",
+    "pages/list3/list3",
+    "pages/news/news",
+    "pages/detail/detail",
+    "pages/tuli/tuli",
+    "pages/xaingxixinxi/xaingxixinxi",
+    "pages/futizhengshu/futizhengshu",
+    "pages/lianxiwomen/lianxiwomen",
+    "pages/caogao/caogao"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "borderStyle": "gray",
+    "backgroundColor": "black",
+    "color": "gray",
+    "selectedColor": "white",
+    "list": [
+      {
+        "pagePath": "pages/list2/list2",
+        "iconPath": "static/watch.png",
+        "selectedIconPath": "static/watchclick.png",
+        "text": "数据"
+      },
+      {
+        "pagePath": "pages/list1/list1",
+        "iconPath": "static/info.png",
+        "selectedIconPath": "static/infoclick.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/list3/list3",
+        "iconPath": "static/user.png",
+        "selectedIconPath": "static/userclick.png",
+        "text": "个人信息"
+      }
+    ]
+  },
+  "usingComponents": {}
+}
